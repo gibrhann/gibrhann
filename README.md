@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Gibrhann 👋
 
-<!--
-**gibrhann/gibrhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** working primarily with **Node.js**, with a growing focus on **AI engineering, automation, and platform engineering**.
 
-Here are some ideas to get you started:
+I enjoy building tools that make complex technical workflows simpler — especially where software engineering and AI intersect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Work With
+
+`Node.js` `TypeScript` `JavaScript` `Python` `AWS` `CI/CD` `GitHub`
+
+### 🤖 What I'm Exploring
+
+* AI engineering & agentic systems
+* Developer tools
+* LLM-powered applications
+* Automation & workflow orchestration
+* Platform engineering
+* Machine learning
+
+### 🚧 Currently Building
+
+I'm working on new open-source projects focused on **AI, developer tooling, and automation**. More coming soon.
+
+### 🔗 Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL)
